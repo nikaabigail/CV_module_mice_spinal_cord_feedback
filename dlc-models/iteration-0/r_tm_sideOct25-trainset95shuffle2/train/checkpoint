@@ -1,0 +1,6 @@
+model_checkpoint_path: "G:\\dlc\\r_tm_side-og-2024-10-25\\dlc-models\\iteration-0\\r_tm_sideOct25-trainset95shuffle2\\train\\snapshot-500000"
+all_model_checkpoint_paths: "G:\\dlc\\r_tm_side-og-2024-10-25\\dlc-models\\iteration-0\\r_tm_sideOct25-trainset95shuffle2\\train\\snapshot-100000"
+all_model_checkpoint_paths: "G:\\dlc\\r_tm_side-og-2024-10-25\\dlc-models\\iteration-0\\r_tm_sideOct25-trainset95shuffle2\\train\\snapshot-200000"
+all_model_checkpoint_paths: "G:\\dlc\\r_tm_side-og-2024-10-25\\dlc-models\\iteration-0\\r_tm_sideOct25-trainset95shuffle2\\train\\snapshot-300000"
+all_model_checkpoint_paths: "G:\\dlc\\r_tm_side-og-2024-10-25\\dlc-models\\iteration-0\\r_tm_sideOct25-trainset95shuffle2\\train\\snapshot-400000"
+all_model_checkpoint_paths: "G:\\dlc\\r_tm_side-og-2024-10-25\\dlc-models\\iteration-0\\r_tm_sideOct25-trainset95shuffle2\\train\\snapshot-500000"

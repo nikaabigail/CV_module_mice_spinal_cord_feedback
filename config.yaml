@@ -1,0 +1,182 @@
+    # Project definitions (do not edit)
+Task: r_tm_side
+scorer: og
+date: Oct25
+multianimalproject: false
+identity:
+
+    # Project path (change when moving around)
+project_path: G:/dlc/r_tm_side-og-2024-10-25
+
+    # Annotation data set configuration (and individual video cropping parameters)
+video_sets:
+  G:\2024_09_17 R dat-ko g2\daheng\10_MER2-230-168U3C(FDE22070175)_20240917_133310.avi:
+    crop: 0, 1920, 0, 220
+  G:\2024_09_17 R dat-ko g2\daheng\11_MER2-230-168U3C(FDE22070175)_20240917_134028.avi:
+    crop: 0, 1920, 0, 220
+  G:\2024_09_17 R dat-ko g2\daheng\12_MER2-230-168U3C(FDE22070175)_20240917_140209.avi:
+    crop: 0, 1920, 0, 220
+  G:\2024_09_17 R dat-ko g2\daheng\13_MER2-230-168U3C(FDE22070175)_20240917_140741.avi:
+    crop: 0, 1920, 0, 220
+  G:\2024_09_17 R dat-ko g2\daheng\14_MER2-230-168U3C(FDE22070175)_20240917_141346.avi:
+    crop: 0, 1920, 0, 220
+  G:\2024_09_17 R dat-ko g2\daheng\15_MER2-230-168U3C(FDE22070175)_20240917_141941.avi:
+    crop: 0, 1920, 0, 220
+  G:\2024_09_17 R dat-ko g2\daheng\17_MER2-230-168U3C(FDE22070175)_20240917_144856.avi:
+    crop: 0, 1920, 0, 220
+  G:\2024_09_17 R dat-ko g2\daheng\18_MER2-230-168U3C(FDE22070175)_20240917_151213.avi:
+    crop: 0, 1920, 0, 220
+  G:\2024_09_17 R dat-ko g2\daheng\19_MER2-230-168U3C(FDE22070175)_20240917_151325.avi:
+    crop: 0, 1920, 0, 220
+  G:\2024_09_17 R dat-ko g2\daheng\1_MER2-230-168U3C(FDE22070175)_20240917_120130.avi:
+    crop: 0, 1920, 0, 220
+  G:\2024_09_17 R dat-ko g2\daheng\20_MER2-230-168U3C(FDE22070175)_20240917_151634.avi:
+    crop: 0, 1920, 0, 220
+  G:\2024_09_17 R dat-ko g2\daheng\30_MER2-230-168U3C(FDE22070175)_20240917_170957.avi:
+    crop: 0, 1920, 0, 220
+  G:\2024_09_17 R dat-ko g2\daheng\29_MER2-230-168U3C(FDE22070175)_20240917_170332.avi:
+    crop: 0, 1920, 0, 220
+  G:\2024_09_17 R dat-ko g2\daheng\28_MER2-230-168U3C(FDE22070175)_20240917_165640.avi:
+    crop: 0, 1920, 0, 220
+  G:\2024_09_17 R dat-ko g2\daheng\27_MER2-230-168U3C(FDE22070175)_20240917_164734.avi:
+    crop: 0, 1920, 0, 220
+  G:\2024_09_17 R dat-ko g2\daheng\26_MER2-230-168U3C(FDE22070175)_20240917_163541.avi:
+    crop: 0, 1920, 0, 220
+  G:\2024_09_17 R dat-ko g2\daheng\25_MER2-230-168U3C(FDE22070175)_20240917_162741.avi:
+    crop: 0, 1920, 0, 220
+  G:\2024_09_17 R dat-ko g2\daheng\24_MER2-230-168U3C(FDE22070175)_20240917_162031.avi:
+    crop: 0, 1920, 0, 220
+  G:\2024_09_17 R dat-ko g2\daheng\23_MER2-230-168U3C(FDE22070175)_20240917_160916.avi:
+    crop: 0, 1920, 0, 220
+  G:\2024_09_17 R dat-ko g2\daheng\22_MER2-230-168U3C(FDE22070175)_20240917_155838.avi:
+    crop: 0, 1920, 0, 220
+  G:\2024_09_17 R dat-ko g2\daheng\21_MER2-230-168U3C(FDE22070175)_20240917_151826.avi:
+    crop: 0, 1920, 0, 220
+  G:\2024_09_17 R dat-ko g2\daheng\9_MER2-230-168U3C(FDE22070175)_20240917_133021.avi:
+    crop: 0, 1920, 0, 220
+  G:\2024_09_17 R dat-ko g2\daheng\8_MER2-230-168U3C(FDE22070175)_20240917_132810.avi:
+    crop: 0, 1920, 0, 220
+  G:\2024_09_17 R dat-ko g2\daheng\6_MER2-230-168U3C(FDE22070175)_20240917_131403.avi:
+    crop: 0, 1920, 0, 220
+  G:\2024_09_17 R dat-ko g2\daheng\5_MER2-230-168U3C(FDE22070175)_20240917_121340.avi:
+    crop: 0, 1920, 0, 220
+  G:\2024_09_17 R dat-ko g2\daheng\4_MER2-230-168U3C(FDE22070175)_20240917_121101.avi:
+    crop: 0, 1920, 0, 220
+  G:\2024_09_17 R dat-ko g2\daheng\3_MER2-230-168U3C(FDE22070175)_20240917_120930.avi:
+    crop: 0, 1920, 0, 220
+  G:\2024_09_17 R dat-ko g2\daheng\2_MER2-230-168U3C(FDE22070175)_20240917_120617.avi:
+    crop: 0, 1920, 0, 220
+  G:\DAT 2024\1_MER2-230-168U3C(FDE22070174)_20240604_152156.avi:
+    crop: 0, 1920, 0, 220
+  G:\DAT 2024\to_process\4_MER2-230-168U3C(FDE22070174)_20240604_164749.avi:
+    crop: 0, 1920, 0, 220
+  G:\DAT 2024\to_process\5_MER2-230-168U3C(FDE22070174)_20240604_165132.avi:
+    crop: 0, 1920, 0, 220
+  G:\DAT 2024\to_process\7_MER2-230-168U3C(FDE22070174)_20240604_171951.avi:
+    crop: 0, 1920, 0, 220
+  G:\DAT 2024\to_process\8_MER2-230-168U3C(FDE22070174)_20240604_172323.avi:
+    crop: 0, 1920, 0, 220
+  G:\DAT 2024\to_process\10_MER2-230-168U3C(FDE22070174)_20240604_174954.avi:
+    crop: 0, 1920, 0, 220
+  G:\DAT 2024\to_process\11_MER2-230-168U3C(FDE22070174)_20240604_175527.avi:
+    crop: 0, 1920, 0, 220
+  G:\DAT 2024\to_process\13_MER2-230-168U3C(FDE22070174)_20240604_181719.avi:
+    crop: 0, 1920, 0, 220
+  G:\DAT 2024\to_process\14_MER2-230-168U3C(FDE22070174)_20240604_181947.avi:
+    crop: 0, 1920, 0, 220
+  G:\DAT 2024\to_process\16_MER2-230-168U3C(FDE22070174)_20240604_192145.avi:
+    crop: 0, 1920, 0, 220
+  G:\DAT 2024\to_process\17_MER2-230-168U3C(FDE22070174)_20240604_192344.avi:
+    crop: 0, 1920, 0, 220
+bodyparts:
+- nose
+- eye_l
+- eye_r
+- fl_toes_l
+- fl_toes_r
+- hl_toes_l
+- hl_ankle_l
+- hl_hip_l
+- hl_iliac_l
+- hl_toes_r
+- hl_ankle_r
+- hl_hip_r
+- hl_iliac_r
+- spine
+- tail
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+start: 0
+stop: 1
+numframes2pick: 100
+
+    # Plotting configuration
+skeleton:
+- - bodypart1
+  - bodypart2
+- - objectA
+  - bodypart3
+skeleton_color: black
+pcutoff: 0.6
+dotsize: 4
+alphavalue: 0.7
+colormap: rainbow
+
+    # Training,Evaluation and Analysis configuration
+TrainingFraction:
+- 0.95
+iteration: 0
+default_net_type: resnet_50
+default_augmenter: default
+snapshotindex: -1
+batch_size: 8
+
+    # Cropping Parameters (for analysis and outlier frame detection)
+cropping: false
+    #if cropping is true for analysis, then set the values here:
+x1: 0
+x2: 640
+y1: 277
+y2: 624
+
+    # Refinement configuration (parameters from annotation dataset configuration also relevant in this stage)
+corner2move2:
+- 50
+- 50
+move2corner: true
