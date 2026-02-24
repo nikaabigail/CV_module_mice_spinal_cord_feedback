@@ -1,0 +1,14 @@
+# DeepLabCut models
+dlc-models/
+
+# datasets
+training-datasets/
+videos/
+evaluation-results/
+
+*.mp4
+*.avi
+*.h5
+*.data*
+*.index
+*.meta
